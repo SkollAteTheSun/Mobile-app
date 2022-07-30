@@ -1,7 +1,7 @@
 # Mobile-app
 A simple mobile application designed to introduce you to Android SDK
 
-The application performs simple functions and interaction with android. The idea of the application is that it could connect to a smart mirror and control / display any functions on its screen.
+The application performs simple functions and interacts with the Android system. The idea behind the app is that it could connect to a smart mirror, allowing it to display the modules available on the smartphone.
 
 Implemented:
  * time display (digital and analog),
